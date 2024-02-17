@@ -1,18 +1,20 @@
 .main{
     width: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     gap: 3rem;
-    height: 100vh;
+    height: 70vh;
 }
 .main img{
-    transform: translateX(-20%);
-    transform: translateY(0);
+    position: fixed;
+    bottom: 0;
+    left: 25rem;
     width: 25%;
 }
 
 .main section{
+    width: 50%;
     display: flex;
     flex-direction: column;
     gap: 3rem;

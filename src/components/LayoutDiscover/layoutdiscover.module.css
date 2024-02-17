@@ -1,0 +1,26 @@
+.discoverContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    color: white;
+    gap: 3rem;
+    width: 100vw;
+    height: 60vh;
+}
+
+.iconsContainer{
+    display: flex;
+    gap: 2rem;
+}
+
+.discoverContainer section{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+}
+
+.covers{
+    width: 15%;
+}

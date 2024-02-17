@@ -1,0 +1,20 @@
+.iconContainer{
+    width: 80px;
+    height: 80px;
+    background-color: var(--icons-bg-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+}
+
+.iconContainer img{
+    width: 40%;
+}
+
+.iconContainer p{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
