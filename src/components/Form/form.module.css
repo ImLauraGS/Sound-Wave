@@ -1,0 +1,16 @@
+.formContainer{
+    width: 30%;
+    background-color: var(--footer-bg-color);
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+    gap: 1rem;
+}
+
+.formContainer label{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+
