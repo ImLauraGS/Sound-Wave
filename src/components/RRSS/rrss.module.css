@@ -1,0 +1,20 @@
+.rrssContainer{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+   
+}
+
+.rrssContainer li{
+    list-style: none;
+    display: flex;
+    
+}
+
+a{
+    display: flex;
+    color: white;
+    font-size: 18px;
+    align-items: center;
+    gap: .5rem;
+}

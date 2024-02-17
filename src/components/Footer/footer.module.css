@@ -1,0 +1,21 @@
+.footer{
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0;
+    height: 60px;
+    background-color: var(--footer-bg-color);
+}
+
+.footer ul{
+    list-style: none;
+    font-weight: 700;
+    display: flex;
+    color: white;
+    font-size: 18px;
+    align-items: center;
+    gap: 3rem;
+    
+}
+
