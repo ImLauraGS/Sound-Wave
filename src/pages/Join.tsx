@@ -1,7 +1,8 @@
 import React from 'react'
+import Header from '../components/Header/Header'
 
 export default function Join() {
   return (
-    <div>Join</div>
+    <Header/>
   )
 }
