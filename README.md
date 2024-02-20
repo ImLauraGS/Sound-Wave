@@ -1,30 +1,37 @@
-# React + TypeScript + Vite
+# 🎧  SOUND WAVE 🎧 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌈 Información General 🌈
 
-Currently, two official plugins are available:
+Proyecto realizado en el bootcamp de Factoria F5, Full Stack Developer. FemCoders P8.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+SoundWave, se ha posicionado en el mercado como la competencia directa de Spotify. Con una calidad de sonido extraordinaria y la gran variedad de canciones que ofrece está ganando adeptos a pasos agigantados. No obstante, quieren acelerar el proceso de subscripción a su plataforma con una nueva campaña de marketing digital.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 💡Objetivos 💡
 
-- Configure the top-level `parserOptions` property like this:
+Deberán desarrollar la página utilizando el framework React.js, con componentes funcionales, usando react-router-dom y son libres de usar alguna de las siguientes tecnologías de estilos para React: Módulos CSS, styled components o algún framework UI como Bootstrap, Tailwind, MUI (si quieres probar alguna que no se menciona aquí, es totalmente válido).
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- Tienen que ser fieles a la maqueta, para ello les facilitan la carta gráfica del proyecto y las imágenes.
+- Tiene que poder funcionar en cualquier dispositivo y adaptarse.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## 🎨 Mockups 🎨
+Home:
+<img width="1510" alt="image" src="https://github.com/ImLauraGS/Sound-Wave/assets/135736563/74cb8e61-eccf-496d-b95a-d27ec7e6b5ff">
+Discover:
+<img width="1511" alt="image" src="https://github.com/ImLauraGS/Sound-Wave/assets/135736563/b4e20c16-b759-4da1-809c-173c70fc0f55">
+Join:
+<img width="1511" alt="image" src="https://github.com/ImLauraGS/Sound-Wave/assets/135736563/4e00ab2f-e267-41d7-860f-8a058d8a990d">
+
+
+## 💻 Tecnologías 💻
+
+- HTML
+- CSS
+- React
+- Vite
+- Typescript
+- Material IU
+  
+## 🚀 Instalacíon 🚀
+
+1. Clona este repositorio en tu máquina local.
